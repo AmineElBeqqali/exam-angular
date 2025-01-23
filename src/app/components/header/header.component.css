@@ -1,0 +1,14 @@
+/* Add this to your header component styles */
+button {
+    background-color: transparent;
+    border: none;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  button:hover {
+    color: #007bff;
+  }
+  
