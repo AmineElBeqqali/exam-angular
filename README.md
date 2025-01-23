@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # exam-angular
 =======
 # AngularEcommerce
